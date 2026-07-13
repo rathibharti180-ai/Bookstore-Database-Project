@@ -1,0 +1,23 @@
+README.md
+#Bookstore Database Management System
+## Project Overview
+This project is a Bookstore Database Management System developed using MySQL Workbench
+Designed to manage bookstore data efficiently.
+
+## Dataset
+The project uses the following CSV files:
+-Books.csv
+-Customers.csv
+-Orders.csv
+
+## Tools used
+-MySQL
+-MySQL Workbench
+-GitHub(for project hosting) 
+
+## Project Files
+bookstore_database.sql
+README.md
+Books.csv
+Customers.csv
+Orders.csv
